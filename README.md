@@ -1,4 +1,4 @@
-Diabetic Retinopathy Detection using Transfer Learning (ResNet50)
+## Diabetic Retinopathy Detection using Transfer Learning (ResNet50)
 This project leverages deep learning and transfer learning to classify diabetic retinopathy severity using a ResNet50 model pre-trained on ImageNet. The dataset comprises retina fundus images annotated with levels of diabetic retinopathy. The goal is to create a robust, efficient model to assist in early diagnosis and treatment planning. This is still an ongoing project and I am researching for ways to imporve the accuracy.
 
 # 📂 Project Structure
